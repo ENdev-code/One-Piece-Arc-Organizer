@@ -97,6 +97,37 @@ op_structure = {
         }
     },
     "2. The Final Sea - The New World Saga [Post-time-skip]":{
-        #TBA
+        "1. Fish-man Island Saga": {[
+            {"name": "1. Return to Sabaody Arc", "display": "Return to Sabaody Arc", "start": 517, "end": 522},
+            {"name": "2. Fish-man Island Arc", "display": "Fish-man Island Arc", "start": 523, "end": 574}
+        ]},
+
+        "2. Dressrosa Saga": {[
+            {"name": "1. Z's Ambition Arc", "display": "Z's Ambition Arc", "start": 575, "end": 578},
+            {"name": "2. Punk Hazard Arc", "display": "Punk Hazard Arc", "start": 579, "end": 625},
+            {"name": "3. Caesar's Retrieval Arc", "display": "Caesar's Retrieval Arc", "start": 626, "end": 628},
+            {"name": "4. Dressrosa Arc", "display": "Dressrosa Arc", "start": 629, "end": 746}
+        ]},
+
+        "3. Whole Cake Island Saga": {[
+            {"name": "1. Silver Mine Arc", "display": "Silver Mine Arc", "start": 747, "end": 750},
+            {"name": "2. Zou Arc", "display": "Zou Arc", "start": 751, "end": 779},
+            {"name": "3. Marine Rookie Arc", "display": "Marine Rookie Arc", "start": 780, "end": 782},
+            {"name": "4. Whole Cake Island Arc", "display": "Whole Cake Island Arc", "start": 783, "end": 877},
+            {"name": "5. Levely Arc", "display": "Levely Arc", "start": 878, "end": 889}
+        ]},
+
+        "4. Wano Country Saga": {[
+            {"name": "1. Wano Country Arc [Part 1]", "display": "Wano Country Arc [Part 1]", "start": 890, "end": 894},
+            {"name": "2. Cidre Guild Arc", "display": "Cidre Guild Arc", "start": 895, "end": 896},
+            {"name": "3. Wano Country Arc [Part 2]", "display": "Wano Country Arc [Part 2]", "start": 897, "end": 1028},
+            {"name": "4. Uta's Past Arc", "display": "Uta's Past Arc", "start": 1029, "end": 1030},
+            {"name": "5. Wano Country Arc [Part 3]", "display": "Wano Country Arc [Part 3]", "start": 1031, "end": 1085}
+        ]},
+
+        "5. The Final Saga": {[
+            {"name": "1. Egghead Island Arc", "display": "Egghead Island Arc", "start": 1086, "end": None}
+            #Elbaph Island Arc will be added here once Egghead Island is complete
+        ]}
     }
 }
